@@ -1,6 +1,6 @@
 # Algorithms-Data-Structure
 This Repository includes my technical implementations of Algorithms and Data Structure using C and C++.
-| Program name  | Description |
+
 | [fibonacci.c](/fibonacci.c)   | Generates fibonacci sequence till nth term  |
 | [binary_to_decimal.c](/binary_to_decimal.c)   | Converts a binary number to its decimal equivalent |
 | [decimal_to_binary.c](/decimal_to_binary.c)   | Converts a decimal number to its binary equivalent |
